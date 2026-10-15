@@ -1,6 +1,6 @@
 ---
-name: model-eval-gauntlet
-description: Run a model through eval lanes (the model-evals rig) as serial three-run segments with per-segment emails to Kurt. Use whenever Kurt asks to run/sweep a model through any lanes (L2/L3/L5/L6/L7/L8/L9) — covers kickoff-plan emails, segment launches, watching, folding verdicts into MATRIX.md, and results-queue check-offs.
+name: skill-benchmark-gauntlet
+description: Run a model through eval lanes (the benchmark rig) as serial three-run segments with per-segment emails to Kurt. Use whenever Kurt asks to run/sweep a model through any lanes (L2/L3/L5/L6/L7/L8/L9) — covers kickoff-plan emails, segment launches, watching, folding verdicts into MATRIX.md, and results-queue check-offs.
 ---
 
 # Model eval gauntlet (serial segments, per-segment emails)
